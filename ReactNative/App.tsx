@@ -12,7 +12,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
-      <Text>apakah kamu merindukan hal-hal kecil seperti ini?</Text>
+      <Text>Daftar Mahasiswa</Text>
     </View>
   );
 }
